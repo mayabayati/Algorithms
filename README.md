@@ -1,2 +1,2 @@
 # Algorithm
-Some of my algorithm coding practises! 
+Some interesting algorithm coding problems!
